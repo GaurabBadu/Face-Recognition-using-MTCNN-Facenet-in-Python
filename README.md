@@ -18,3 +18,7 @@ It is used to create the backgroup of the app. It includes student details, filt
    
 6. attendance.py
      Finally, the attendance is shown in this file.Present is given for those whose face are recognized.
+
+![image](https://github.com/user-attachments/assets/0e7f0996-f5c0-42e7-9f10-83bb564e682b)
+
+   
